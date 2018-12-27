@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml:1:1-2:51
+INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml:1:1-2:51
+INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml:1:1-2:51
+INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml:1:1-2:51
+INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml:1:1-2:51
+INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml:1:1-2:51
+INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml:1:1-2:51
+	package
+		ADDED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml:2:5-48
+		INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+		INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+		ADDED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml:1:1-2:51
+		INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+		ADDED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml:1:1-2:51
+		INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+		ADDED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+		INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+		ADDED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
+		INJECTED from /Users/SoftSuave/Android/istatvball-3-android/iStatVball3/labeledrecyclerview/src/main/AndroidManifest.xml
