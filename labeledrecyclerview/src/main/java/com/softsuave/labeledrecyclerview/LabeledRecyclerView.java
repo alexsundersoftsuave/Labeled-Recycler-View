@@ -77,7 +77,7 @@ public class LabeledRecyclerView extends RecyclerView {
         public abstract VH onCreateViewHolder(@NonNull ViewGroup viewGroup, int i);
     }
 
-    public class ViewHolder extends RecyclerView.ViewHolder {
+    public static class ViewHolder extends RecyclerView.ViewHolder {
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
